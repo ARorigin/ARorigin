@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ARorigin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python Django
-- 💞️ I’m looking to collaborate on Pythonhttps://github.com/ARorigin/ARorigin
 - 📫 You can reach me at amansab96@gmail.com
 
 <!---
